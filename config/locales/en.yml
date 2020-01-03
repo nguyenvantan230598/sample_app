@@ -1,0 +1,16 @@
+en:
+  static_pages:
+    home:
+      title: "Ruby on Rails Tutorial Sample App"
+      sample App: "Sample App"
+      this_is_the_home_page_for_the: "This is the home page for the"
+      sample_application: "sample application."
+      english: " English"
+      vietnamese: "Vietnamese"
+    help:
+      title: "Ruby on Rails Tutorial Sample App"
+      english: " English"
+      vietnamese: "Vietnamese"
+      help: " Help"
+      get_help_on_the_Ruby_on_Rails_Tutorial_at_the: "Get help on the Ruby on Rails Tutorial at the"
+      to_get_help_on_this_sample_app,_see_the: "To get help on this sample app,  see the"
