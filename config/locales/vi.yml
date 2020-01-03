@@ -1,4 +1,5 @@
 vi:
+ruby_onrails_tutorial_sample_app: "Ruby onRails Tutorial Sample App"
  static_pages:
     home:
       title: "Trang chủ "
