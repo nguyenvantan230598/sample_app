@@ -1,0 +1,16 @@
+vi:
+ static_pages:
+    home:
+      title: "Trang chủ "
+      sample App: "Sample App"
+      this_is_the_home_page_for_the: "Đây là trang chủ cho"
+      sample_application: "Ứng dụng mẫu."
+      english: "Tiếng anh"
+      vietnamese: "Tiếng việt"
+    help:
+      title: "Trang chủ "
+      english: "Tiếng anh"
+      vietnamese: "Tiếng việt"
+      help: "Trợ giúp"
+      get_help_on_the_Ruby_on_Rails_Tutorial_at_the: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      to_get_help_on_this_sample_app,_see_the: "Để được trợ giúp về ứng dụng mẫu này, xem"
