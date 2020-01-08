@@ -1,10 +1,7 @@
-<title><%= t ".title" %></title>
-<%= link_to t(".english"), locale:"en" %>
-<%= link_to t(".vietnamese"), locale:"vi" %>
 <h1><%= t ".help" %></h1>
 <p>
   <%= t ".get_help_on_the_Ruby_on_Rails_Tutorial_at_the" %>
-  <%= link_to "Rails Tutorial help_page.",  Settings.link2 %>
+  <%= link_to t(".rails_Tutorial_help_page."), Settings.link2 %>
   <%= t ".to_get_help_on_this_sample_app,_see_the"%>
-  <%= link_to "Ruby on Rails Tutorial book",  Settings.link3 %>
+  <%= link_to t(".ruby_on_Rails_Tutorial_book"), Settings.link3 %>
 </p>

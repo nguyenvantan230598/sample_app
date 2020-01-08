@@ -1,12 +1,33 @@
 en:
+  ruby_onrails_tutorial_sample_app: "Ruby onRails Tutorial Sample App"
+  layouts:
+    header:
+      sample_app: "Sample app"
+      home: "Home"
+      help: "Help"
+      log_in: "Log in"
+      rails_Tutorial_help_page.: "Rails Tutorial help page."
+      ruby_on_Rails_Tutorial_book: "Ruby on Rails Tutorial book"
+    footer:
+      about: "About"
+      the: "The "
+      by: "By "
+      contact: "Contact"
+      news: "New"
+      ruby_on_Rails_Tutorial: "Ruby on Rails Tutorial"
+      michael_hartl: "Michael Hartl"
+
   static_pages:
     home:
       title: "Ruby on Rails Tutorial Sample App"
       sample App: "Sample App"
       this_is_the_home_page_for_the: "This is the home page for the"
-      sample_application: "sample application."
       english: " English"
       vietnamese: "Vietnamese"
+      welcome_to_the_sample_app: "Welcome to the Sample App"
+      sample_application: "sample application."
+      ruby_on_rails_tutorial: "Ruby on rails tutorial "
+      sign_up_now!: "Sign up now!"
     help:
       title: "Ruby on Rails Tutorial Sample App"
       english: " English"
@@ -14,3 +35,14 @@ en:
       help: " Help"
       get_help_on_the_Ruby_on_Rails_Tutorial_at_the: "Get help on the Ruby on Rails Tutorial at the"
       to_get_help_on_this_sample_app,_see_the: "To get help on this sample app,  see the"
+    about:
+      about: "About"
+    contact:
+      contact: "Contact"
+      contact_page: "Contact page"
+      contact_the_Ruby_on_Rails_Tutorial: "Contact the Ruby on Rails Tutorial about the sample app at the"
+
+  users:
+    new:
+      sign_up: "Sign Up"
+      this_will_be_a_signup_page_for_new_users: "This will be a signup page for new users."

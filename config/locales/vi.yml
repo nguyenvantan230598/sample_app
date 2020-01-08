@@ -1,12 +1,35 @@
 vi:
- static_pages:
+  ruby_onrails_tutorial_sample_app: "Ruby onRails Tutorial Sample App"
+  layouts:
+    header:
+      sample_app: "Sample app"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      log_in: "Đăng nhập"
+      rails_Tutorial_help_page.: "Trang hướng dẫn đường Rails Tutorial "
+      ruby_on_Rails_Tutorial_book: "Sách hướng dẫn về Ruby on Rails"
+    footer:
+      about: "Về..."
+      the: "Từ "
+      by: "Bởi "
+      contact: "Liên hệ"
+      news: "Mới"
+      ruby_on_Rails_Tutorial: "Ruby on Rails Tutorial"
+      michael_hartl: "Michael Hartl"
+      english: "Tiếng anh"
+      vietnamese: "Tiếng việt"
+
+  static_pages:
     home:
       title: "Trang chủ "
       sample App: "Sample App"
-      this_is_the_home_page_for_the: "Đây là trang chủ cho"
-      sample_application: "Ứng dụng mẫu."
       english: "Tiếng anh"
       vietnamese: "Tiếng việt"
+      ruby_on_rails_tutorial: "Ruby on rails tutorial "
+      sign_up_now!: "Đăng nhập ngay!"
+      this_is_the_home_page_for_the: "Đây là trang chủ cho"
+      welcome_to_the_sample_app: "Chào Mừng Đến Với Sample App"
+      sample_application: "Ứng dụng Sample"
     help:
       title: "Trang chủ "
       english: "Tiếng anh"
@@ -14,3 +37,14 @@ vi:
       help: "Trợ giúp"
       get_help_on_the_Ruby_on_Rails_Tutorial_at_the: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
       to_get_help_on_this_sample_app,_see_the: "Để được trợ giúp về ứng dụng mẫu này, xem"
+    about:
+      about: "About"
+    contact:
+      contact_page: "Trang liên lạc"
+      contact: "Liên lạc"
+      contact_the_Ruby_on_Rails_Tutorial: "Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại"
+
+  users:
+    new:
+      sign_up: "Đăng nhập"
+      this_will_be_a_signup_page_for_new_users: "Đây là trang chủ cho người dùng mới."
