@@ -46,5 +46,7 @@ vi:
 
   users:
     new:
+      users: "Người dùng"
+      find me: "Tìm tôi trong ứng dụng / lượt xem / người dùng / new.html.erb"
       sign_up: "Đăng nhập"
       this_will_be_a_signup_page_for_new_users: "Đây là trang chủ cho người dùng mới."
